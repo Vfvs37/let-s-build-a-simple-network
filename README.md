@@ -14,7 +14,9 @@ This project entails a network architecture created within Cisco Packet Tracer. 
 _Addressing table_ :
 
 [PC-Robert  | Eth | 192.168.1.10 | 255.255.255.0]
+
 [PC-Camille | Eth | 192.168.1.11 | 255.255.255.0]
+
 [PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0]
 
 
