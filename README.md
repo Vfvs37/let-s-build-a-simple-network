@@ -13,6 +13,11 @@ This project entails a network architecture created within Cisco Packet Tracer. 
 
 _Addressing table_ :
 
-PC-Robert  | Eth | 192.168.1.10 | 255.255.255.0
+[PC-Robert  | Eth | 192.168.1.10 | 255.255.255.0
 PC-Camille | Eth | 192.168.1.11 | 255.255.255.0
-PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0
+PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0]
+
+
+
+![image](https://github.com/Vfvs37/let-s-build-a-simple-network/assets/155911615/180cbbc3-79f1-4c6f-b681-710d2e90d2fb)
+
